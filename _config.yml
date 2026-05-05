@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: "月あかりの食卓"
+subtitle: "新しい扉を開けよう"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: "料理：スパイス料理、パスタ、イタリアン、スープカレーなどレシピや研究のまとめ。日常：日々考えたことをまとめる。音楽：羊文学、Chili Beans、Vaundy、kiki vivi lily、yamaについての感想"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "flyingbasil"
+  avatar : "/assets/images/flyingbasil.png"
+  bio    : "スパイス料理とパスタの研究、羊文学、Chili Beans、Vaundy, kiki vivi lily, yamaについての感想、旅行記の記録、日常の考えたことをまとめるブログ"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
