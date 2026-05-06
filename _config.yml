@@ -15,11 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "月あかりの食卓"
 subtitle: "新しい扉を開けよう"
-email:
+email: ""
 description: "料理：スパイス料理、パスタ、イタリアン、スープカレーなどレシピや研究のまとめ。日常：日々考えたことをまとめる。音楽：羊文学、Chili Beans、Vaundy、kiki vivi lily、yamaについての感想"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
